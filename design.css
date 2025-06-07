@@ -1,0 +1,71 @@
+.nav{
+    height: 50px;
+
+}
+.nav div{
+    display:inline-block;
+    position: absolute;
+    left:0;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+}
+.nav ul{
+    position: absolute;
+    right: 5px;
+}
+.nav ul li{
+display: inline-block;
+}
+.h1{
+    text-align: center;
+    font-size: xx-large;
+}
+.home{
+    background-image: url(IMG-20250111-WA0013.jpg);
+    background-size: cover;
+    max-height: 1600px;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.i{
+    color: black;
+}
+#choco{
+    background: url(IMG-20250111-WA0010.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 350px
+}
+#gnut{
+    background-image: url(IMG-20250111-WA0013.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 350px;
+}
+#cash{
+    background-image: url(IMG-20250111-WA0017.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 350px;
+    position: relative;
+}
+.main{
+    left: 50%;
+    
+}
+.product{
+    background-color: burlywood;
+}
+.con{
+    text-align: center;
+    font-size: large
+}
+.callus{
+background: url(IMG-20250111-WA0015.jpg);
+background-size: cover;
+height: auto;
+}
+.b{
+    color: red;
+}
